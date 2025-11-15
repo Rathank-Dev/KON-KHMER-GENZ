@@ -24,3 +24,5 @@ If the argument count is incorrect, the tool displays:
 Usage: <program> <host> <port> <mode> <connections> <seconds> <timeout(second)> <packetsize(bytes)> [proxyfile.txt]
 ---
 
+Use it at your own risk.
+
