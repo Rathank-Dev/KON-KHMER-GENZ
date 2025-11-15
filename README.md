@@ -13,7 +13,7 @@
 ### Preview
 ![image](1.png)
 ![image](2.png)
-![image]([2.png](https://streamable.com/cg24s9)) 
+![image]([2.png](https://streamable.com/cg24s9)](https://streamable.com/cg24s9)) 
 ## Usage
 
 This tool accepts the following arguments:
