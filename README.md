@@ -10,7 +10,10 @@
 * Customizable parameters such as connections, duration, timeout, and packet size.
 * Optional proxy file usage for authorized HTTP load simulations.
 
-## Usage (Safe & Official)
+![image](https://github.com/AsjadOooO/Zero-attacker/blob/Zero-attacker/Screenshot 2025-11-15 183205.png)
+![image](https://github.com/AsjadOooO/Zero-attacker/blob/Zero-attacker/Screenshot 2025-11-15 183017.png)
+
+## Usage
 
 This tool accepts the following arguments:
 
@@ -22,6 +25,10 @@ If the argument count is incorrect, the tool displays:
 
 ```
 Usage: <program> <host> <port> <mode> <connections> <seconds> <timeout(second)> <packetsize(bytes)> [proxyfile.txt]
+---
+
+```
+Usage: .\kmeng-GEnZ.exe example.com 443 3 1000 60 5 65000 proxy.txt
 ---
 
 Use it at your own risk.
