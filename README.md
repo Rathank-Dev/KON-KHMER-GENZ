@@ -141,6 +141,9 @@ program.exe 127.0.0.1 80 3 200 30 5 0 proxies.txt
 
 ## Screenshot
 
+The screenshot below shows the current interface of **KON-KHMER-GENZ**, captured on *2025-11-15 18:32:05*.
+
+📌 **Note:** This screenshot is only a visual preview of the tool's interface. It does **not** represent tool performance, results, or any live activity. It is included purely for documentation and presentation purposes.
 *(Screenshot: 2025-11-15 18:32:05)*
 
 ## Official Note
