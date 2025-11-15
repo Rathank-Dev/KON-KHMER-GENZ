@@ -10,8 +10,8 @@
 * Customizable parameters such as connections, duration, timeout, and packet size.
 * Optional proxy file usage for authorized HTTP load simulations.
 
-![image](https://github.com/Rathank-Dev/KON-KHMER-GENZ/1.png)
-![image](https://github.com/Rathank-Dev/KON-KHMER-GENZ/2.png)
+![image](1.png)
+![image](2.png)
 
 ## Usage
 
