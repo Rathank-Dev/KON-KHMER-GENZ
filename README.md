@@ -10,6 +10,7 @@
 * Customizable parameters such as connections, duration, timeout, and packet size.
 * Optional proxy file usage for authorized HTTP load simulations.
 
+### Preview
 ![image](1.png)
 ![image](2.png)
 
