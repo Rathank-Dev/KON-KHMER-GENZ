@@ -15,9 +15,10 @@
 ![image](2.png)
 <!-- Embed MP4 video -->
 <video width="640" height="360" controls>
-  <source src="2025-11-15 18-28-46.mp4" type="video/mp4">
+  <source src="https://github.com/Rathank-Dev/KON-KHMER-GENZ/blob/main/2025-11-15%2018-28-46.mp4?raw=true" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 ## Usage
 
 This tool accepts the following arguments:
