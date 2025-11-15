@@ -13,7 +13,7 @@
 ### Preview
 ![image](1.png)
 ![image](2.png)
-
+![image](2025-11-15 18-28-46.mp4)
 ## Usage
 
 This tool accepts the following arguments:
