@@ -28,7 +28,7 @@ Usage: <program> <host> <port> <mode> <connections> <seconds> <timeout(second)> 
 ---
 
 ```
-Usage: .\kmeng-GEnZ.exe example.com 443 3 1000 60 5 65000 proxy.txt
+Usagec Example : .\kmeng-GEnZ.exe example.com 443 3 1000 60 5 65000 proxy.txt
 ---
 
 Use it at your own risk.
