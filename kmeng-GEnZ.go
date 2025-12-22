@@ -15,7 +15,7 @@ import (
 	"sync/atomic"
 	"time"
 )
-// Global variables declaration block
+
 var (
 	// Utility counters for all modes
 	succ 		int64
@@ -25,7 +25,6 @@ var (
 	bit 		int64
 	currentRPS 	int64
 
-	// Proxy data
 	proxies 	[]string 
 
 	// HTTP headers for realistic traffic 
@@ -73,7 +72,7 @@ var (
 	}
 )
 
-// --- Utility Functions (for Header Randomization and Payload Generation) ---
+//Utility Functions (for Header Randomization and Payload Generation
 
 func useragent() string {
 	platform := choice[rand.Intn(len(choice))]
@@ -126,7 +125,7 @@ func generatePostPayload(size int) string {
 	return sb.String()
 }
 
-// --- Proxy Functions ---
+//Proxy Function
 
 func loadProxies(filename string) {
 	file, err := os.Open(filename)
@@ -200,8 +199,7 @@ func init() {
 
 func printHeader() {
 	fmt.Println(" --------------------------------------------------------")
-	fmt.Println(" ✨🛡️ [ KON KMHER-GENZ ] Server Resilience Tester (v3.3)🛡️✨")
-	fmt.Println(" 🚀 Protocol Analysis Tool (High Concurrency Engine) 🚀")
+	fmt.Println("  [ KON KMHER-GENZ ] Server Resilience Tester (v3.3)")
 	fmt.Println(" --------------------------------------------------------")
 	fmt.Println(" Coder: Rathank-DEv | Metrics: ON")
 	fmt.Println(" Please remember that you created it and are responsible for it yourself...\n")
@@ -252,7 +250,7 @@ func rpsLogger(times int, stop *int32) {
 		}
 	}
 
-	fmt.Print("\n[✅ COMPLETE] Test finished. Finalizing results...\n")
+	fmt.Print("\nTest finished. Finalizing results...\n")
 }
 
 // --- Main Logic ---
@@ -519,4 +517,5 @@ func main() {
 	} else {
 		fmt.Println("Error: Invalid mode selected. Please use [1], [2], or [3].")
 	}
+
 }
